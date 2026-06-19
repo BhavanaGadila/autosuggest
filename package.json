@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "Verifying my git set-up: )\r verified my git\r 1. add(plus button)\r 2. commit with message\r 3. push/sync",
+  "homepage": "https://github.com/BhavanaGadila/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/BhavanaGadila/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhavanaGadila/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "Bhavana",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
